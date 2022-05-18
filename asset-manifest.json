@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/newsvillareactapplication/static/css/main.abd64e84.css",
+    "main.js": "/newsvillareactapplication/static/js/main.22cab35a.js",
+    "static/js/787.193874f0.chunk.js": "/newsvillareactapplication/static/js/787.193874f0.chunk.js",
+    "index.html": "/newsvillareactapplication/index.html",
+    "main.abd64e84.css.map": "/newsvillareactapplication/static/css/main.abd64e84.css.map",
+    "main.22cab35a.js.map": "/newsvillareactapplication/static/js/main.22cab35a.js.map",
+    "787.193874f0.chunk.js.map": "/newsvillareactapplication/static/js/787.193874f0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.22cab35a.js"
+  ]
+}
